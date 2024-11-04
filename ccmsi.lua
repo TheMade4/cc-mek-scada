@@ -18,8 +18,8 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 local CCMSI_VERSION = "v1.19"
 
 local install_dir = "/.install-cache"
-local manifest_path = "https://mikaylafischler.github.io/cc-mek-scada/manifests/"
-local repo_path = "http://raw.githubusercontent.com/MikaylaFischler/cc-mek-scada/"
+local manifest_path = "https://raw.githubusercontent.com/TheMade4/cc-mek-scada/refs/heads/"
+local repo_path = "http://raw.githubusercontent.com/TheMade4/cc-mek-scada/"
 
 ---@diagnostic disable-next-line: undefined-global
 local _is_pkt_env = pocket -- luacheck: ignore pocket
