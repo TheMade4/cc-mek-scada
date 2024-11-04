@@ -43,7 +43,7 @@ v10.1+ is required due to the complete support of CC:Tweaked added in Mekanism v
 ## Installation
 
 You can install this on a ComputerCraft computer using either:
-* `wget https://raw.githubusercontent.com/MikaylaFischler/cc-mek-scada/main/ccmsi.lua`
+* `wget https://raw.githubusercontent.com/TheMade4/cc-mek-scada/main/ccmsi.lua`
 * `pastebin get hbTu63Kx ccmsi.lua`
 * Off-line (when HTTP is disabled) installation via [release bundles](https://github.com/MikaylaFischler/cc-mek-scada/wiki/Alternative-Installation-Strategies#release-bundles)
 
